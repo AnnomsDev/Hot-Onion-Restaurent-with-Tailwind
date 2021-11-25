@@ -5,6 +5,12 @@ module.exports = {
     extend: {
       color: {
         primary: '#f91944',
+      },
+      height: {
+        banner: '37vw'
+      },
+      backgroundImage: {
+        "banner-img": "url('/src/img/bannerbackground.png')"
       }
     },
   },
